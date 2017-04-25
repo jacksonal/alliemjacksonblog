@@ -1613,6 +1613,7 @@ margin: 0 auto;
 float: left;
 display: inline;
 position: relative;
+background-color: #ffe6e6
 }
 #menutop a {
 display: block;
@@ -1696,7 +1697,7 @@ padding: 14px 15px;
 color: #000000;
 }
 #menutop ul li ul li a:hover {
-color: #ffe6e6;
+color: #000000;
 }
 @media screen and (max-width: 960px)  {
 #menutop {
