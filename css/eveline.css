@@ -1625,7 +1625,7 @@ letter-spacing: 2px;
 text-transform: uppercase;
 }
 #menutop ul li:hover a {
-color: #ffe6e6;
+color: #000000;
 }
 #menutop input {
 display: none;
