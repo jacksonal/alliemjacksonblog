@@ -1,0 +1,2 @@
+# alliemjacksonblog
+blog resources
